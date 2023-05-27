@@ -1,0 +1,24 @@
+// C++ code
+//
+int read_analog = 0;
+
+int read_analog_pin = 0;
+
+void setup()
+{
+  pinMode(A0, INPUT);
+  pinMode(6, OUTPUT);
+  pinMode(9, OUTPUT);
+}
+
+void loop()
+{
+  if (analogRead(A0) < 550) {
+    digitalWrite(6, LOW);
+    digitalWrite(9, LOW);
+  } else {
+    digitalWrite(6, HIGH);
+    digitalWrite(9, HIGH);
+  }
+  delay(10); // Delay a little bit to improve simulation performance
+}
