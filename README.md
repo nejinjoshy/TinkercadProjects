@@ -27,6 +27,8 @@ The Automatic Streetlight System using Arduino Uno is a project designed to enha
 Arduino Uno, Tinkercad
 
 ## Screenshots
+![AUTOMATIC STREETLIGHT USING ARDUINO AND LDR](https://github.com/nejinjoshy/TinkercadProjects/assets/117255470/a8bf9f5d-0951-43b0-a767-c1f352611702)
+This is the general design of the system. It contains an Arduino Uno,a photoresistor, led lights, and required amount of resistors and wires.
 
 
 
