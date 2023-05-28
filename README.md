@@ -26,5 +26,9 @@ The Automatic Streetlight System using Arduino Uno is a project designed to enha
 ## 🛠 Skills
 Arduino Uno, Tinkercad
 
+## Screenshots
+![Image](https://imgur.com/alTXbdi)
+
+
 
 
