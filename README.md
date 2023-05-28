@@ -22,6 +22,7 @@ This image shows the daytime situation.During daytime, the Automatic Streetlight
 This image shows the nighttime situation.During nighttime, the Automatic Streetlight System using Arduino Uno detects the low ambient light levels through the light sensors. The Arduino Uno receives this information and determines that it is dark outside. As a result, it activates the streetlights, providing illumination for improved visibility and safety. This automated system ensures that the streetlights turn on automatically at night, enhancing convenience and security in the urban environment.
 
 
+# **Project 2:SAFER PEDESTRIAN CROSSING USING ARDUINO UNO**
 
 
 
