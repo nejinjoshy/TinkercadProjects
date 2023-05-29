@@ -24,6 +24,7 @@ This image shows the nighttime situation.During nighttime, the Automatic Streetl
 
 # **Project 2:SAFER PEDESTRIAN CROSSING USING ARDUINO UNO**
 The safer pedestrian crossing using Arduino Uno is a system designed to enhance pedestrian safety at crosswalks especially during nights. It utilizes an Arduino Uno board, a photo sensor, and traffic signal lights. The photo sensor detects the traffic signal lights and during the pedestrian corssing time green light is made vertical towards the road and during other times red light is made horizontal to the road making pedistrains aware its not theier time to cross.This Arduino-based solution aims to prevent accidents and create a safer environment for pedestrians and drivers alike.![Screenshot (43)](https://github.com/nejinjoshy/TinkercadProjects/assets/117255470/251ebd85-57e1-456f-8449-9ca3eb36b393)![Screenshot (42)](https://github.com/nejinjoshy/TinkercadProjects/assets/117255470/3b8c2eee-e0fb-4482-a72d-0d12eded064b)
+The following is the design of the proposed system.![Smashing Bigery](https://github.com/nejinjoshy/TinkercadProjects/assets/117255470/c5887087-ba70-43ee-aafb-71155df9bae0)
 
 
 
